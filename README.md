@@ -1,7 +1,6 @@
 
 # Mood Sofa
 
-#### Video Demo:  <https://youtube.com/shorts/hlj_U-09lIk?feature=share>
 
 #### Description:
 > A modular command-line productivity & well-being application built in Python.
@@ -113,8 +112,6 @@ Through this project, I practiced:
 ### Author
 
 Nicolas Christian Toussaint
-CS50x Student
-Passionate about building structured, meaningful software.
 
 ---
 
