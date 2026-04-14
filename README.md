@@ -67,7 +67,7 @@ Mood Sofa follows a modular design principle:
 
 Make sure Python 3 is installed.
 
-- ```bash
+ ```bash
 python main.py
 
 
