@@ -69,7 +69,7 @@ Make sure Python 3 is installed.
 
  ```bash
 python main.py
-
+```
 
 ## Data Storage
 
